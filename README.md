@@ -290,3 +290,5 @@ python -m streamlit run app.py
 ```
 
 Once started, open your browser at `http://localhost:8501`.
+#   s t o c k _ p r e d i c t o r _ c o l l e g e  
+ 
